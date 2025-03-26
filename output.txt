@@ -1,0 +1,18 @@
+int: Keyword
+main: Keyword
+
+int: Keyword
+a: Identifier
+=: Operator
+10: Constant
+
+if: Keyword
+a: Identifier
+>=: Relational Operator
+5: Constant
+
+printf: Keyword
+"Hello": String Literal
+
+
+
